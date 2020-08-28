@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.27)  5 JUL 2020 12:55
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.5.27)  28 AUG 2020 15:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1144,31 +1144,30 @@ File: pgflibraryarrows.meta.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 Package xeCJK Warning: Redefining CJKfamily `\CJKrmdefault' (SimSun(0)).
 
 
-Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "思源宋体 CN/I" (it probably doesn't
+(fontspec)             exist).
 
 
-Package fontspec Info: Could not resolve font "STZhongsong/BI" (it probably
-(fontspec)             doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Serif CN/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
-(fontspec)             doesn't exist).
-
-
-Package fontspec Info: Font family 'STZhongsong(0)' created for font
-(fontspec)             'STZhongsong' with options
-(fontspec)             [Script={CJK},BoldFont={STZhongsong}].
+Package fontspec Info: Font family 'SourceHanSerifCN(0)' created for font
+(fontspec)             'Source Han Serif CN' with options
+(fontspec)             [Script={CJK},BoldFont={思源宋体 CN}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"STZhongsong/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             CN/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"STZhongsong/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"思源宋体
+(fontspec)             CN/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
+(fontspec)             Serif CN/BI/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 \c@mycontents=\count345
 \c@theorem=\count346
@@ -1368,25 +1367,24 @@ Package fontspec Info: Font family 'STKaiti(0)' created for font 'STKaiti'
 
 ]
 
-Package fontspec Info: Could not resolve font "Source Han Sans SC-Regular/I"
-(fontspec)             (it probably doesn't exist).
+Package fontspec Info: Could not resolve font "Source Han Serif CN/I" (it
+(fontspec)             probably doesn't exist).
 
 
-Package fontspec Info: Font family 'SourceHanSansSC-Regular(0)' created for
-(fontspec)             font 'Source Han Sans SC-Regular' with options
-(fontspec)             [Script={CJK}].
+Package fontspec Info: Font family 'SourceHanSerifCN(1)' created for font
+(fontspec)             'Source Han Serif CN' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
 (fontspec)             series/shapes:
 (fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Sans
-(fontspec)             SC-Regular/OT:script=hani;language=dflt;"
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             CN/OT:script=hani;language=dflt;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Sans
-(fontspec)             SC-Regular/B/OT:script=hani;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Source Han Serif
+(fontspec)             CN/B/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 (fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Source Han
-(fontspec)             Sans SC-Regular/BI/OT:script=hani;language=dflt;"
+(fontspec)             Serif CN/BI/OT:script=hani;language=dflt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
  (./JXJH.toc
@@ -1415,7 +1413,7 @@ Package fontspec Info: Could not resolve font "STZhongsong/I" (it probably
 (fontspec)             doesn't exist).
 
 
-Package fontspec Info: Font family 'STZhongsong(1)' created for font
+Package fontspec Info: Font family 'STZhongsong(0)' created for font
 (fontspec)             'STZhongsong' with options [Script={CJK}].
 (fontspec)              
 (fontspec)              This font family consists of the following NFSS
@@ -1670,11 +1668,11 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 196--196
  []
 
 
-Overfull \hbox (21.86282pt too wide) in paragraph at lines 197--198
-[]\TU/STZhongsong(0)/b/n/12 一 般 地，|  设 $[]\OML/lmm/m/it/12 ; []; []  ; []$ \TU/
-STZhongsong(0)/b/n/12 是 一 组 向 量，| $\OML/lmm/m/it/12 k[]; k[]; []  ; k[]$ \TU/ST
-Zhongsong(0)/b/n/12 是 一 组 实 数，|  称 向 量 $\OML/lmm/m/it/12 k[][]; k[][]; []  ; k[
-][]$
+Overfull \hbox (15.16684pt too wide) in paragraph at lines 197--198
+[]\TU/SourceHanSerifCN(0)/b/n/12 一 般 地，|  设 $[]\OML/lmm/m/it/12 ; []; []  ; []$
+ \TU/SourceHanSerifCN(0)/b/n/12 是 一 组 向 量，| $\OML/lmm/m/it/12 k[]; k[]; []  ; k
+[]$ \TU/SourceHanSerifCN(0)/b/n/12 是 一 组 实 数，|  称 向 量 $\OML/lmm/m/it/12 k[][]; 
+k[][]; []  ; k[][]$
  []
 
 
@@ -1742,13 +1740,14 @@ LaTeX Warning: The counter will not be printed.
              The label is:  on input line 356.
 
 
-Overfull \hbox (7.04922pt too wide) in paragraph at lines 360--361
-[]\TU/STZhongsong(0)/b/n/12 设 在 仿 射 标 架 $\OT1/lmr/m/n/12 [\OML/lmm/m/it/12 O; [
-]; []; []\OT1/lmr/m/n/12 ]$ \TU/STZhongsong(0)/b/n/12 中 $[]\OML/lmm/m/it/12 ; [
-]; []$ \TU/STZhongsong(0)/b/n/12 的 坐 标 分 别 为：| $\OT1/lmr/m/n/12 (\OML/lmm/m/it/
-12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/lmm/m
-/it/12 b[]; b[]; b[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n/12 (\OML/l
-mm/m/it/12 c[]; c[]; c[]\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，|
+Overfull \hbox (5.34523pt too wide) in paragraph at lines 360--361
+[]\TU/SourceHanSerifCN(0)/b/n/12 设 在 仿 射 标 架 $\OT1/lmr/m/n/12 [\OML/lmm/m/it/12
+ O; []; []; []\OT1/lmr/m/n/12 ]$ \TU/SourceHanSerifCN(0)/b/n/12 中 $[]\OML/lmm/m
+/it/12 ; []; []$ \TU/SourceHanSerifCN(0)/b/n/12 的 坐 标 分 别 为：| $\OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr/m/n
+/12 (\OML/lmm/m/it/12 b[]; b[]; b[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; \OT1/lmr
+/m/n/12 (\OML/lmm/m/it/12 c[]; c[]; c[]\OT1/lmr/m/n/12 )$\TU/SourceHanSerifCN(0
+)/b/n/12 ，|
  []
 
 
@@ -1879,11 +1878,12 @@ LaTeX Warning: The counter will not be printed.
              The label is:  on input line 64.
 
 
-Overfull \hbox (12.48428pt too wide) in paragraph at lines 65--66
-[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
-/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
-n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
-/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+Overfull \hbox (10.3003pt too wide) in paragraph at lines 65--66
+[]\TU/SourceHanSerifCN(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT
+1/lmr/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/SourceHanSer
+ifCN(0)/b/n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (
+\OML/lmm/m/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m
+/n/12 =
  []
 
 
@@ -1891,11 +1891,12 @@ LaTeX Warning: The counter will not be printed.
              The label is:  on input line 77.
 
 
-Overfull \hbox (12.48428pt too wide) in paragraph at lines 78--79
-[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
-/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
-n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
-/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+Overfull \hbox (10.3003pt too wide) in paragraph at lines 78--79
+[]\TU/SourceHanSerifCN(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT
+1/lmr/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/SourceHanSer
+ifCN(0)/b/n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (
+\OML/lmm/m/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m
+/n/12 =
  []
 
 
@@ -1903,11 +1904,12 @@ LaTeX Warning: The counter will not be printed.
              The label is:  on input line 86.
 
 
-Overfull \hbox (12.48428pt too wide) in paragraph at lines 87--88
-[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
-/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
-n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
-/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+Overfull \hbox (10.3003pt too wide) in paragraph at lines 87--88
+[]\TU/SourceHanSerifCN(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT
+1/lmr/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/SourceHanSer
+ifCN(0)/b/n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (
+\OML/lmm/m/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m
+/n/12 =
  []
 
 
@@ -1920,11 +1922,12 @@ LaTeX Warning: The counter will not be printed.
              The label is:  on input line 123.
 
 
-Overfull \hbox (12.48428pt too wide) in paragraph at lines 124--125
-[]\TU/STZhongsong(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT1/lmr
-/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/
-n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (\OML/lmm/m
-/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+Overfull \hbox (10.3003pt too wide) in paragraph at lines 124--125
+[]\TU/SourceHanSerifCN(0)/b/n/12 已 知：| []平 面 上 一 点[]：| $\OML/lmm/m/it/12 M[]\OT
+1/lmr/m/n/12 (\OML/lmm/m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$ \TU/SourceHanSer
+ifCN(0)/b/n/12 和 平 面 上 的[]两 个 不 共 线 的 向 量  |（直 线）| []：| $[] \OT1/lmr/m/n/12 = (
+\OML/lmm/m/it/12 a[]; a[]; a[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m
+/n/12 =
  []
 
 
@@ -2143,17 +2146,18 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 633--633
  []
 
 
-Overfull \hbox (48.8201pt too wide) in paragraph at lines 634--635
-[] \TU/STZhongsong(0)/b/n/12 两 异 面 直 线 $\OML/lmm/m/it/12 l[]; l[]$ \TU/STZhongs
-ong(0)/b/n/12 分 别 过 点 $\OML/lmm/m/it/12 M[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 x[
-]; y[]; z[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; M[]\OT1/lmr/m/n/12 (\OML/lmm/m/i
-t/12 x[]; y[]\OT1/lmr/m/n/12 2\OML/lmm/m/it/12 z[]\OT1/lmr/m/n/12 )$\TU/STZhong
-song(0)/b/n/12 ，|  且 方 向 向 量 分 别 为 $[] \OT1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[];
- n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 =
+Overfull \hbox (46.5881pt too wide) in paragraph at lines 634--635
+[] \TU/SourceHanSerifCN(0)/b/n/12 两 异 面 直 线 $\OML/lmm/m/it/12 l[]; l[]$ \TU/Sou
+rceHanSerifCN(0)/b/n/12 分 别 过 点 $\OML/lmm/m/it/12 M[]\OT1/lmr/m/n/12 (\OML/lmm/
+m/it/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; M[]\OT1/lmr/m/n/12 (\O
+ML/lmm/m/it/12 x[]; y[]\OT1/lmr/m/n/12 2\OML/lmm/m/it/12 z[]\OT1/lmr/m/n/12 )$\
+TU/SourceHanSerifCN(0)/b/n/12 ，|  且 方 向 向 量 分 别 为 $[] \OT1/lmr/m/n/12 = (\OML/l
+mm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \OT1/lmr/m/n/12 
+=
  []
 
 
-Underfull \vbox (badness 6758) has occurred while \output is active []
+Underfull \vbox (badness 6708) has occurred while \output is active []
 
  [23]
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -2201,12 +2205,12 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 736--736
  []
 
 
-Overfull \hbox (15.77686pt too wide) in paragraph at lines 737--738
-[] \TU/STZhongsong(0)/b/n/12 设 在[]直 角 坐 标 系[]中，|  两 条 直 线 $\OML/lmm/m/it/12 L[]
-; L[]$ \TU/STZhongsong(0)/b/n/12 的 方 向 向 量 分 别 为\TU/lmr/m/n/12 :$[] \OT1/lmr/m/
-n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; [] \O
-T1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/1
-2 :$
+Overfull \hbox (13.54486pt too wide) in paragraph at lines 737--738
+[] \TU/SourceHanSerifCN(0)/b/n/12 设 在[]直 角 坐 标 系[]中，|  两 条 直 线 $\OML/lmm/m/it/1
+2 L[]; L[]$ \TU/SourceHanSerifCN(0)/b/n/12 的 方 向 向 量 分 别 为\TU/lmr/m/n/12 :$[] \
+OT1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/lmm/m/it/
+12 ; [] \OT1/lmr/m/n/12 = (\OML/lmm/m/it/12 m[]; n[]; p[]\OT1/lmr/m/n/12 )\OML/
+lmm/m/it/12 :$
  []
 
 
@@ -2386,12 +2390,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 434--440
  []
 
 [34]
-Overfull \hbox (7.29353pt too wide) in paragraph at lines 440--441
-[]\TU/STZhongsong(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1/lmr/
-m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，| 
- 作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n
-/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u; v; w\OT1/lmr/m/
-n/12 )\OML/lmm/m/it/12 :$
+Overfull \hbox (4.66554pt too wide) in paragraph at lines 440--441
+[]\TU/SourceHanSerifCN(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/SourceHanSerifCN(0)/
+b/n/12 ，|  作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/SourceHa
+nSerifCN(0)/b/n/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u; 
+v; w\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 :$
  []
 
 
@@ -2405,14 +2409,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 459--466
  []
 
 
-Overfull \hbox (47.43858pt too wide) in paragraph at lines 466--467
-[]\TU/STZhongsong(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1/lmr/
-m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/STZhongsong(0)/b/n/12 ，| 
- 作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n
-/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u\OT1/lmr/m/n/12 (
-\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; v\OT1/lmr/m/n/12 (\OML/lm
-m/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; w\OT1/lmr/m/n/12 (\OML/lmm/m/it/
-12 t\OT1/lmr/m/n/12 ))\OML/lmm/m/it/12 :$
+Overfull \hbox (44.8106pt too wide) in paragraph at lines 466--467
+[]\TU/SourceHanSerifCN(0)/b/n/12 原 理[]：|  在 柱 面 上 取 动 点 $\OML/lmm/m/it/12 M\OT1
+/lmr/m/n/12 (\OML/lmm/m/it/12 x; y; z\OT1/lmr/m/n/12 )$\TU/SourceHanSerifCN(0)/
+b/n/12 ，|  作 平 行 于 母 线 的 方 向 $[]$ 的 直 线 交 准 线 $\OML/lmm/m/it/12 C$ \TU/SourceHa
+nSerifCN(0)/b/n/12 于 点 $\OML/lmm/m/it/12 N\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 u\O
+T1/lmr/m/n/12 (\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; v\OT1/lmr/
+m/n/12 (\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 )\OML/lmm/m/it/12 ; w\OT1/lmr/m/n/12 
+(\OML/lmm/m/it/12 t\OT1/lmr/m/n/12 ))\OML/lmm/m/it/12 :$
  []
 
 
@@ -2421,7 +2425,7 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 477--477
  []
 
 
-Underfull \vbox (badness 1028) has occurred while \output is active []
+Underfull \vbox (badness 1112) has occurred while \output is active []
 
  [35]
 Overfull \hbox (5.216pt too wide) in paragraph at lines 519--519
@@ -2458,11 +2462,11 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 616--616
  []
 
 
-Overfull \hbox (32.08687pt too wide) in paragraph at lines 617--620
-\OMS/lmsy/m/n/12 ([])$ \TU/STZhongsong(0)/b/n/12 若 点 $\OML/lmm/m/it/12 M$ \TU/S
-TZhongsong(0)/b/n/12 在 曲 面 上，|  则 由 原 点 $\OML/lmm/m/it/12 O$ \TU/STZhongsong(0)
-/b/n/12 和 点 $\OML/lmm/m/it/12 M$ \TU/STZhongsong(0)/b/n/12 所 确 定 的 直 线 也 在 曲 面 
-上\TU/lmr/m/n/12 .[][][][][][] 
+Overfull \hbox (29.85487pt too wide) in paragraph at lines 617--620
+\OMS/lmsy/m/n/12 ([])$ \TU/SourceHanSerifCN(0)/b/n/12 若 点 $\OML/lmm/m/it/12 M$ 
+\TU/SourceHanSerifCN(0)/b/n/12 在 曲 面 上，|  则 由 原 点 $\OML/lmm/m/it/12 O$ \TU/Sour
+ceHanSerifCN(0)/b/n/12 和 点 $\OML/lmm/m/it/12 M$ \TU/SourceHanSerifCN(0)/b/n/12 
+所 确 定 的 直 线 也 在 曲 面 上\TU/lmr/m/n/12 .[][][][][][] 
  []
 
 
@@ -2514,20 +2518,20 @@ LaTeX Warning: Hyper reference `抛物面' on page 40 undefined on input line 76
 
 [40] [41] [42]
 Overfull \hbox (35.8979pt too wide) in paragraph at lines 999--1001
-\TU/STZhongsong(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML/lmm/
-m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/STZho
-ngsong(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^F\O
-ML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 分 别 在 双 曲 线[
-]和 双 曲 线[]上\TU/lmr/m/n/12 . 
+\TU/SourceHanSerifCN(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML
+/lmm/m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/
+SourceHanSerifCN(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/
+n/12 ^^F\OML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/SourceHanSerifCN(0)/b/n/
+12 分 别 在 双 曲 线[]和 双 曲 线[]上\TU/lmr/m/n/12 . 
  []
 
 [43] [44]
 Overfull \hbox (35.8979pt too wide) in paragraph at lines 1096--1098
-\TU/STZhongsong(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML/lmm/
-m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/STZho
-ngsong(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/n/12 ^^F\O
-ML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 分 别 在 双 曲 线[
-]和 双 曲 线[]上\TU/lmr/m/n/12 . 
+\TU/SourceHanSerifCN(0)/b/n/12 其 顶 点 $\OT1/lmr/m/n/12 (\OMS/lmsy/m/n/12 ^^F\OML
+/lmm/m/it/12 a []; \OT1/lmr/m/n/12 0\OML/lmm/m/it/12 ; h\OT1/lmr/m/n/12 )$ \TU/
+SourceHanSerifCN(0)/b/n/12 和 $\OT1/lmr/m/n/12 (0\OML/lmm/m/it/12 ; \OMS/lmsy/m/
+n/12 ^^F\OML/lmm/m/it/12 b []; h\OT1/lmr/m/n/12 )$ \TU/SourceHanSerifCN(0)/b/n/
+12 分 别 在 双 曲 线[]和 双 曲 线[]上\TU/lmr/m/n/12 . 
  []
 
 [45] [46] [47]
@@ -2541,13 +2545,13 @@ Overfull \hbox (5.216pt too wide) in paragraph at lines 1329--1329
  []
 
 
-Overfull \hbox (20.10231pt too wide) in paragraph at lines 1335--1336
-[]\TU/STZhongsong(0)/b/n/12 设 $\OML/lmm/m/it/12 M\OT1/lmr/m/n/12 (\OML/lmm/m/it
-/12 x; y; z\OT1/lmr/m/n/12 )$ \TU/STZhongsong(0)/b/n/12 是 直 纹 面 $\OML/lmm/m/it/
-12 S$ \TU/STZhongsong(0)/b/n/12 上 的 动 点，|  过 点 $\OML/lmm/m/it/12 M$ \TU/STZhong
-song(0)/b/n/12 的 直 母 线 $\OML/lmm/m/it/12 L$ \TU/STZhongsong(0)/b/n/12 交 准 线 $\O
-ML/lmm/m/it/12 C$ \TU/STZhongsong(0)/b/n/12 与 点 $\OML/lmm/m/it/12 N []$\TU/STZh
-ongsong(0)/b/n/12 ，|
+Overfull \hbox (16.56232pt too wide) in paragraph at lines 1335--1336
+[]\TU/SourceHanSerifCN(0)/b/n/12 设 $\OML/lmm/m/it/12 M\OT1/lmr/m/n/12 (\OML/lmm
+/m/it/12 x; y; z\OT1/lmr/m/n/12 )$ \TU/SourceHanSerifCN(0)/b/n/12 是 直 纹 面 $\OML
+/lmm/m/it/12 S$ \TU/SourceHanSerifCN(0)/b/n/12 上 的 动 点，|  过 点 $\OML/lmm/m/it/12
+ M$ \TU/SourceHanSerifCN(0)/b/n/12 的 直 母 线 $\OML/lmm/m/it/12 L$ \TU/SourceHanSe
+rifCN(0)/b/n/12 交 准 线 $\OML/lmm/m/it/12 C$ \TU/SourceHanSerifCN(0)/b/n/12 与 点 $
+\OML/lmm/m/it/12 N []$\TU/SourceHanSerifCN(0)/b/n/12 ，|
  []
 
 
@@ -2715,16 +2719,16 @@ n/12 ([])  [] [] \OT1/lmr/m/n/12 = 0\OML/lmm/m/it/12 :  \OMS/lmsy/m/n/12 ([])
  []
 
 [58]
-Overfull \hbox (27.67386pt too wide) in paragraph at lines 532--534
-[]\TU/STZhongsong(0)/b/n/12 这 与[][][]二 次 曲 面 的 特 征 方 程[][][]是 一 致 的，|  所 以[][][
-][][][] 
+Overfull \hbox (25.44186pt too wide) in paragraph at lines 532--534
+[]\TU/SourceHanSerifCN(0)/b/n/12 这 与[][][]二 次 曲 面 的 特 征 方 程[][][]是 一 致 的，|  所 以
+[][][][][][] 
  []
 
 [59] [60]
-Overfull \hbox (22.90344pt too wide) in paragraph at lines 730--731
-[]| | \TU/STZhongsong(0)/b/n/12 二 次 无 心 曲 面：|  选 取 曲 面 的 顶 点  |（即 对 称 轴 与 曲 面 的
- 交 点）|  作 为 新 的 坐 标 原 点 $\OML/lmm/m/it/12 O[]\OT1/lmr/m/n/12 (\OML/lmm/m/it/12 
-x[]; y[]; z[]\OT1/lmr/m/n/12 )$\TU/lmr/m/n/12 . 
+Overfull \hbox (21.51144pt too wide) in paragraph at lines 730--731
+[]| | \TU/SourceHanSerifCN(0)/b/n/12 二 次 无 心 曲 面：|  选 取 曲 面 的 顶 点  |（即 对 称 轴 与 
+曲 面 的 交 点）|  作 为 新 的 坐 标 原 点 $\OML/lmm/m/it/12 O[]\OT1/lmr/m/n/12 (\OML/lmm/m/i
+t/12 x[]; y[]; z[]\OT1/lmr/m/n/12 )$\TU/lmr/m/n/12 . 
  []
 
 [61]
@@ -2784,11 +2788,11 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 33765 strings out of 479418
- 701079 string characters out of 5888105
- 1040640 words of memory out of 5000000
- 50518 multiletter control sequences out of 15000+600000
- 583745 words of font info for 157 fonts, out of 8000000 for 9000
+ 33770 strings out of 479418
+ 702208 string characters out of 5888105
+ 1041132 words of memory out of 5000000
+ 50525 multiletter control sequences out of 15000+600000
+ 583713 words of font info for 153 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  59i,28n,96p,944b,673s stack positions out of 5000i,500n,10000p,200000b,80000s
 
